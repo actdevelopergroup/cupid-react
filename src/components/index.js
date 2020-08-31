@@ -1,0 +1,10 @@
+export { default as Beauty } from "./pages/Beauty";
+export { default as Studio } from "./pages/Studio";
+export { default as Weddings } from "./pages/Weddings";
+export { default as Editorial } from "./pages/Editorial";
+export { default as About } from "./pages/About";
+export { default as Service } from "./pages/Service";
+export { default as Contact } from "./pages/Contact";
+export { default as Upload } from "./pages/Upload";
+export { default as SignIn } from "./auth/SignIn";
+export { default as Loader } from "./layout/Loader";
